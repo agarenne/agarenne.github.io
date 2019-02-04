@@ -1,4 +1,4 @@
-# Accueil
+## André Garenne
 
 ## [Blog](./blog/index.html)
 
