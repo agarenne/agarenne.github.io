@@ -4,7 +4,7 @@
 
 ## [Cours]("./cours/index.html")
 
-## Publications
+## [Publications]("./publications/index.html")
 
-## A propos
+## [A propos]("./a_propos/index.html")
 
