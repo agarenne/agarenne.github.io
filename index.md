@@ -1,10 +1,10 @@
-# André Garenne
+# [André Garenne](./index.html)
 
-## [Blog](./blog/index.html)
+###[Blog](./blog/index.html)
 
-## [Cours](./cours/index.html)
+###[Cours](./cours/index.html)
 
-## [Publications](./publications/index.html)
+###[Publications](./publications/index.html)
 
-## [A propos](./a_propos/index.html)
+###[A propos](./a_propos/index.html)
 
