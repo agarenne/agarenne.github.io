@@ -1,6 +1,6 @@
 # Accueil
 
-## [Blog](./blog./index.html)
+## [Blog](./blog/index.html)
 
 ## [Cours](./cours/index.html)
 
