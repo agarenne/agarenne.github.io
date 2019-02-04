@@ -1,6 +1,0 @@
-## Python
-
-
-
-###[Cours](../index.html)
-

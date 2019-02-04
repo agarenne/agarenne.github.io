@@ -1,5 +1,0 @@
-##C++
-
-
-
-###[Cours](../index.html)

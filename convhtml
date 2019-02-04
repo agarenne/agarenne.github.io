@@ -1,2 +1,0 @@
-pandoc index.md -f markdown -t html -s -o index.html
-pandoc ./cours/index.md -f markdown -t html -s -o ./cours/index.html

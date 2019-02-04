@@ -1,5 +1,0 @@
-## Publications
-
-
-
-###[Accueil](../index.html)

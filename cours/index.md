@@ -1,6 +1,0 @@
-##Cours
-
-
-
-### [Accueil](../index.html)
-
